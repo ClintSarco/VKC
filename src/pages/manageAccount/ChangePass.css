@@ -1,0 +1,40 @@
+.container-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 64px; 
+  }
+  
+  /* TextField Styles */
+  .text-field .MuiOutlinedInput-root fieldset {
+    border-color: white;
+  }
+  
+  .text-field .MuiOutlinedInput-root:hover fieldset {
+    border-color: #daa520;  
+  }
+  
+  .text-field .MuiOutlinedInput-root.Mui-focused fieldset {
+    border-color: #daa520;
+  }
+  
+  .text-field .MuiInputLabel-root {
+    color: white;
+  }
+  
+  .text-field .MuiInputLabel-root.Mui-focused {
+    color: #daa520;
+  }
+  
+  /* Button Styles */
+  .change-password-button {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    background-color: #daa520;
+    color: black;
+  }
+  
+  .change-password-button:hover {
+    background-color: #b8860b;
+  }
+  

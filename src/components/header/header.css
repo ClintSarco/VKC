@@ -1,0 +1,25 @@
+
+.appBar {
+  background-color: black;
+}
+
+
+.logo {
+  width: 80px;
+}
+
+
+.headerIconButton {
+  margin-right: 16px;
+}
+
+
+.headerTwoButton {
+  background-color: #DAA520;
+  color: black;
+}
+
+.headerTwoButton:hover {
+  background-color: gray;
+  color: white;
+}
